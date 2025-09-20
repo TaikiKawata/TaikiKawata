@@ -13,7 +13,7 @@
 
 ---
 
-# Hi, I'm ○○ 👋
+# Hi, I'm Taiki Kawata 👋
 
 ## 🌱 Currently Learning
 - Studying Java  
