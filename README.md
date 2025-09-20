@@ -1,16 +1,26 @@
-## Hi there 👋
+# はじめまして！川田 大毅です 👋
 
-<!--
-**TaikiKawata/TaikiKawata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 学習中
+- Javaを学習しています  
+- 学習の記録や作成したプログラムをGitHubにアップしています  
+- 2025年の目標資格：Java Silver  
 
-Here are some ideas to get you started:
+## 👤 プロフィール
+- 年齢: 23歳  
+- 目標: 開発エンジニアとしてキャリアアップ、その後フリーランスを目指す
+- 資格: ITパスポート  
+- 趣味: 筋トレ、サウナ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Hi, I'm ○○ 👋
+
+## 🌱 Currently Learning
+- Studying Java  
+- Uploading my learning records and programs to GitHub  
+- 2025 Goal Certifications: Java Silver  
+
+## 👤 Profile
+- Age: 23  
+- Goal: Advance your career as a development engineer, then aim to become a freelancer.  
+- Hobby: self-development  
